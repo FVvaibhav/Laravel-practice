@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Vaibhav",
+        "email": "singhvaibhav9896@gmail.com",
+        "age": 22,
+        "city": 1
+    },
+    {
+        "name": "Candle",
+        "email": "candle@gmail.com",
+        "age": 24,
+        "city": 3
+    },
+    {
+        "name": "Vicky",
+        "email": "vicky@gmail.com",
+        "age": 2,
+        "city": 2
+    },
+    {
+        "name": "Chikara",
+        "email": "thekedar@gmail.com",
+        "age": 26,
+        "city": 4
+    },
+    {
+        "name": "Paali",
+        "email": "goodboi@gmail.com",
+        "age": 22,
+        "city": 2
+    },
+    {
+        "name": "Adhikari",
+        "email": "Adhikar@gmail.com",
+        "age": 23,
+        "city": 1
+    },
+    {
+        "name": "ashish",
+        "email": "bihar@gmail.com",
+        "age": 22,
+        "city": 4
+    },
+    {
+        "name": "noda",
+        "email": "uncle@gmail.com",
+        "age": 43,
+        "city": 3
+    },
+    {
+        "name": "system",
+        "email": "system@gmail.com",
+        "age": 69,
+        "city": 1
+    }
+]
